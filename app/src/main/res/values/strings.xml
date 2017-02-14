@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">repertoire</string>
+    <string name="tel">tel</string>
+    <string name="retour">retour</string>
+    <string name="nom">nom</string>
+    <string name="prenom">prenom</string>
+</resources>

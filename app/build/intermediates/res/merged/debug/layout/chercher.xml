@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rechercher:"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:id="@+id/textView3"
+        android:layout_marginLeft="15dp"
+        android:layout_alignBaseline="@+id/slname"
+        android:layout_alignBottom="@+id/slname"
+        android:layout_toStartOf="@+id/visu" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/slname"
+        android:enabled="true"
+        android:layout_marginTop="46dp"
+        android:layout_alignStart="@+id/visu" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sTTel"
+        android:textColor="#000000"
+        android:layout_below="@+id/visu"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="94dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chercher"
+        android:id="@+id/visu"
+        android:onClick="ClickChercher"
+        android:background="#7296f7"
+        android:textColor="#ffffff"
+        android:layout_marginTop="59dp"
+        android:layout_below="@+id/slname"
+        android:layout_centerHorizontal="true" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listbd"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/visu" />
+
+</RelativeLayout>

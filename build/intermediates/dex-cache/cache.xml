@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_4b314e0e90c3e4b1abf62add96cba9b7957c4ae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\pre-dexed\debug\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Louloutte\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_50664978e245450f0b0684c3caa94d3c7a3b650c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_46e1d2ab2e789bd802195468cca4e5f2586f6b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\pre-dexed\debug\com.github.satyan-sugar-1.4_4f5cf554eff1230abda1b87290efe0c1d63db4c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.1_64a1ca89760f3fc0f7693dc7712e22a71dd45f16.jar" />
+    </item>
+
+</items>

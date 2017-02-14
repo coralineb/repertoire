@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:5:5-36:19
+MERGED from [com.android.support:appcompat-v7:22.1.1] C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:10:9-40
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.cobouri.repertoire.MainActivity
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.cobouri.repertoire.Second_Activity
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:20:19-50
+activity#com.example.cobouri.repertoire.Ajouter
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:21:19-42
+activity#com.example.cobouri.repertoire.Chercher
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:22:9-45
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:22:19-43
+activity#com.example.cobouri.repertoire.Modifier
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:23:9-45
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:23:19-43
+meta-data#DATABASE
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:24:9-26:42
+	android:value
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:26:13-39
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:25:13-36
+meta-data#VERSION
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:27:9-29:33
+	android:value
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:29:13-30
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:28:13-35
+meta-data#QUERY_LOG
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:30:9-32:36
+	android:value
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:32:13-33
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:31:13-37
+meta-data#DOMAIN_PACKAGE_NAME
+ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:33:9-35:43
+	android:value
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:35:13-40
+	android:name
+		ADDED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml:34:13-47
+uses-sdk
+INJECTED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.1.1] C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.github.satyan:sugar:1.4] C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Louloutte\Desktop\repertoire sugar\repertoire\app\src\main\AndroidManifest.xml
